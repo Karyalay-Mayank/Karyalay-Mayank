@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karyalay-Mayank
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vue and Node.js
+- 🌱 Vue.js Developer and currently learning React.js, Node.js and System Design
 - 📫 Reach me : mayank.krishnatra@gmail.com
 
 <!---
